@@ -1,3 +1,15 @@
+# YouTube
+
+> https://www.youtube.com/@yuriusx
+
+# Telegram
+
+> https://t.me/Dartanyans
+
+# SoloLearn
+
+> https://www.sololearn.com/profile/9877055
+
 # Certifications
 
 > [SoloLearn Golang](https://www.sololearn.com/certificates/course/en/9358266/1164/landscape/png)
@@ -25,7 +37,5 @@
 > [Stepik KMB in IT](https://stepik.org/certificate/01c99d82332885a4dd03ba9c4e8cfb89dd1ca716.pdf)
 
 > [Stepik Web-developing](https://stepik.org/certificate/c0169f24e1676fd1642a9f1e1f3d0de09ac549d5.pdf)
-
-> [Stepik basic resuscitation](https://stepik.org/certificate/c4ddbda4efd61b523408e463798a92fe75bfcd87.pdf)
 
 ***
