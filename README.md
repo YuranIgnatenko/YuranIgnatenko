@@ -2,6 +2,10 @@
 
 > yuran.ignatenko@yandex.ru
 
+# PyPI
+
+> https://pypi.org/user/YuranIgnatenko
+
 # YouTube
 
 > https://www.youtube.com/@yuriusx
