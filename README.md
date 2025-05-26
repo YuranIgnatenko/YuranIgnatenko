@@ -2,6 +2,10 @@
 
 > yuran.ignatenko@yandex.ru
 
+# FreeSoft
+
+> https://freesoft.ru/windows/platforma-ecosystem-telegram
+
 # PyPI
 
 > https://pypi.org/user/YuranIgnatenko
